@@ -1279,12 +1279,73 @@
     "tv:277513": {
       "title": "There's No Freaking Way I'll Be Your Lover! Unless...",
       "first_seen": "2026-07-01T08:59:20Z"
+    },
+    "movie:1722965": {
+      "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "movie:1492655": {
+      "title": "Souls Chapel",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "movie:687163": {
+      "title": "Project Hail Mary",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "movie:1541407": {
+      "title": "Christmas in Amish Country",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:319720": {
+      "title": "The Loyalty Game",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:316968": {
+      "title": "Isakapatnam",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:254420": {
+      "title": "Elle",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:325913": {
+      "title": "What Would You Rather?: Decide to Survive",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:323411": {
+      "title": "The Vampire Lestat",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:323903": {
+      "title": "The Terror: Devil in Silver",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:273866": {
+      "title": "The Other Bennet Sister",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:288586": {
+      "title": "Twelve Dates 'Til Christmas",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:300920": {
+      "title": "Baked With Love: Holiday",
+      "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "tv:299259": {
+      "title": "The Hills Are Alive - A Year at Kylemore Abbey",
+      "first_seen": "2026-07-06T17:29:11Z"
     }
   },
   "history": [
     {
       "date": "2026-07-01T08:59:20Z",
       "new_count": 0,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-07-06T17:29:11Z",
+      "new_count": 14,
       "total_catalog": 320
     }
   ]
