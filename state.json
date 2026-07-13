@@ -1335,6 +1335,50 @@
     "tv:299259": {
       "title": "The Hills Are Alive - A Year at Kylemore Abbey",
       "first_seen": "2026-07-06T17:29:11Z"
+    },
+    "movie:1249208": {
+      "title": "Hungry",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:1722819": {
+      "title": "Unbreakable Me - The Gabrielle Daleman Story",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:1565790": {
+      "title": "Double Occupancy",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:1714046": {
+      "title": "Eli Manning Presents: The Undercovers - Ryan Blaney",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:855297": {
+      "title": "Dug Dug",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:1595852": {
+      "title": "Boulevard",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:1403612": {
+      "title": "Timur",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "tv:286709": {
+      "title": "The Westies",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "tv:255358": {
+      "title": "THE GHOST IN THE SHELL",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "tv:315051": {
+      "title": "Polen",
+      "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "tv:304118": {
+      "title": "KCON LA 2025",
+      "first_seen": "2026-07-13T16:15:07Z"
     }
   },
   "history": [
@@ -1346,6 +1390,11 @@
     {
       "date": "2026-07-06T17:29:11Z",
       "new_count": 14,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-07-13T16:15:07Z",
+      "new_count": 11,
       "total_catalog": 320
     }
   ]
