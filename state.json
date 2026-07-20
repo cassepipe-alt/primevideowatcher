@@ -1379,6 +1379,58 @@
     "tv:304118": {
       "title": "KCON LA 2025",
       "first_seen": "2026-07-13T16:15:07Z"
+    },
+    "movie:1722970": {
+      "title": "The Magnificent Mendez",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:999136": {
+      "title": "Do Not Enter",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1636196": {
+      "title": "I Don't Love You Anymore",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1617221": {
+      "title": "Nuptials",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1555571": {
+      "title": "Signing Tony Raymond",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1604603": {
+      "title": "The Trouble I See...",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1075655": {
+      "title": "Intrusive Thoughts",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1585189": {
+      "title": "The Mighty Oaks",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1127839": {
+      "title": "Raptus",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "tv:323976": {
+      "title": "Young Farts Trailer Parts",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "tv:241882": {
+      "title": "Ride or Die",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "tv:313808": {
+      "title": "The Real Wolf of Wall Street",
+      "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "tv:325622": {
+      "title": "Murder 101",
+      "first_seen": "2026-07-20T13:29:41Z"
     }
   },
   "history": [
@@ -1395,6 +1447,11 @@
     {
       "date": "2026-07-13T16:15:07Z",
       "new_count": 11,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-07-20T13:29:41Z",
+      "new_count": 13,
       "total_catalog": 320
     }
   ]
