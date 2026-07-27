@@ -1431,6 +1431,50 @@
     "tv:325622": {
       "title": "Murder 101",
       "first_seen": "2026-07-20T13:29:41Z"
+    },
+    "movie:1442396": {
+      "title": "Nagabandham: The Secret Treasure",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1734152": {
+      "title": "The Executor",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:454639": {
+      "title": "Masters of the Universe",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1634301": {
+      "title": "Vanaveera",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1326036": {
+      "title": "Addition",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1318998": {
+      "title": "House of Ka",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1619983": {
+      "title": "Morando Com O Demônio",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1459276": {
+      "title": "Relentless",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1595325": {
+      "title": "The Anacondas",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1546050": {
+      "title": "Lone Samurai",
+      "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "tv:328402": {
+      "title": "Adarsh Baal Vidyalaya",
+      "first_seen": "2026-07-27T16:01:43Z"
     }
   },
   "history": [
@@ -1452,6 +1496,11 @@
     {
       "date": "2026-07-20T13:29:41Z",
       "new_count": 13,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-07-27T16:01:43Z",
+      "new_count": 11,
       "total_catalog": 320
     }
   ]
