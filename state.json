@@ -1475,6 +1475,74 @@
     "tv:328402": {
       "title": "Adarsh Baal Vidyalaya",
       "first_seen": "2026-07-27T16:01:43Z"
+    },
+    "movie:1528501": {
+      "title": "Black Burns Fast",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1481343": {
+      "title": "The Devil's Mouth",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1740465": {
+      "title": "A Guerra Invisível",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1729196": {
+      "title": "Dread",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1579405": {
+      "title": "Love Oh Love",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1422407": {
+      "title": "Conni and the Mystery of the Crane",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1647508": {
+      "title": "Winter: Battleground",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1624961": {
+      "title": "No Ordinary Heist",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1637862": {
+      "title": "My Dead Summer",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1288246": {
+      "title": "The Huntsman",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1619533": {
+      "title": "Arctic Adventure: Ultimate Survival",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1584260": {
+      "title": "Learning You",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1315303": {
+      "title": "Primate",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1738701": {
+      "title": "Rise and Fight: The Battle of Hobkirk's Hill",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "tv:324093": {
+      "title": "This Is Poly",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "tv:320991": {
+      "title": "Ultimate Boys Trip",
+      "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "tv:246142": {
+      "title": "SolarBalls",
+      "first_seen": "2026-08-03T16:08:12Z"
     }
   },
   "history": [
@@ -1501,6 +1569,11 @@
     {
       "date": "2026-07-27T16:01:43Z",
       "new_count": 11,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-08-03T16:08:12Z",
+      "new_count": 17,
       "total_catalog": 320
     }
   ]
