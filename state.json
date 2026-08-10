@@ -1543,6 +1543,62 @@
     "tv:246142": {
       "title": "SolarBalls",
       "first_seen": "2026-08-03T16:08:12Z"
+    },
+    "movie:1592679": {
+      "title": "Oh..! Sukumari",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1665710": {
+      "title": "Rent Free",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1475803": {
+      "title": "Governor",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1721367": {
+      "title": "Homage",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1695180": {
+      "title": "Cart Pushers",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1428299": {
+      "title": "Achilles Returns",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1704326": {
+      "title": "The Box in the Attic",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1625363": {
+      "title": "Ashes",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1263532": {
+      "title": "Beast Race",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1366906": {
+      "title": "The Gates",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1463681": {
+      "title": "Southern Scares",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1597017": {
+      "title": "Annihilator Unleashed",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "tv:283297": {
+      "title": "Sterling Point",
+      "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "tv:316657": {
+      "title": "Paris is Always a Good Idea",
+      "first_seen": "2026-08-10T08:19:20Z"
     }
   },
   "history": [
@@ -1574,6 +1630,11 @@
     {
       "date": "2026-08-03T16:08:12Z",
       "new_count": 17,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-08-10T08:19:20Z",
+      "new_count": 14,
       "total_catalog": 320
     }
   ]
