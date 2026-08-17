@@ -1599,6 +1599,146 @@
     "tv:316657": {
       "title": "Paris is Always a Good Idea",
       "first_seen": "2026-08-10T08:19:20Z"
+    },
+    "movie:1747277": {
+      "title": "Back to the Drawing Board",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1738546": {
+      "title": "Eclipse Across Europe",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1511081": {
+      "title": "Contention",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1711953": {
+      "title": "Red Rabbit Lodge",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1716288": {
+      "title": "Emmy Blotnick: What's Her Secret?",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1718302": {
+      "title": "Kyra's Code",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1226834": {
+      "title": "This Tempting Madness",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1711430": {
+      "title": "Madelein Murphy: Muddin'",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1647153": {
+      "title": "MYSTERY ARENA",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1669135": {
+      "title": "Hunting Party",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1480107": {
+      "title": "Off the Air",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1683551": {
+      "title": "Contact in the Woods: The Dr. Johnathan Reed Story",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1673175": {
+      "title": "Joe Dombrowski: Dad on Arrival",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1675418": {
+      "title": "Tragic Villain",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1192624": {
+      "title": "The Man with the Silver Case",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1462146": {
+      "title": "S4: The Bob Lazar Story",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1664566": {
+      "title": "Megan Gailey: Live From My Driveway",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1274134": {
+      "title": "I Live Here Now",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1244517": {
+      "title": "Tow",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1664797": {
+      "title": "Nish Kumar: Nish, Don't Kill My Vibe",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1649587": {
+      "title": "David Cross: The End of the Beginning of the End",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1430968": {
+      "title": "Idiotka",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1664758": {
+      "title": "TT for Life",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1642125": {
+      "title": "Pete Holmes: Silly Silly Fun Boy",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1592358": {
+      "title": "Peaky Blinders: The Real Story",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1379261": {
+      "title": "Surrender To It",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1635712": {
+      "title": "The Distant Jump",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:843342": {
+      "title": "Hamlet",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1595128": {
+      "title": "Lure",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1624209": {
+      "title": "Kevin Nealon: Loose in the Crotch",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "tv:294141": {
+      "title": "The Chosen in the Wild with Bear Grylls",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "tv:8840": {
+      "title": "Fightland",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "tv:324745": {
+      "title": "Circo Gómez",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "tv:299091": {
+      "title": "Paris & Pups",
+      "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "tv:298874": {
+      "title": "Jamie: Eat Yourself Healthy",
+      "first_seen": "2026-08-17T07:41:41Z"
     }
   },
   "history": [
@@ -1635,6 +1775,11 @@
     {
       "date": "2026-08-10T08:19:20Z",
       "new_count": 14,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-08-17T07:41:41Z",
+      "new_count": 35,
       "total_catalog": 320
     }
   ]
