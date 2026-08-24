@@ -1739,6 +1739,34 @@
     "tv:298874": {
       "title": "Jamie: Eat Yourself Healthy",
       "first_seen": "2026-08-17T07:41:41Z"
+    },
+    "movie:1626188": {
+      "title": "Novak Djokovic: The Wolf in Winter",
+      "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1231624": {
+      "title": "He Loves Me Not",
+      "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1577326": {
+      "title": "Srinivasa Mangapuram",
+      "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1308906": {
+      "title": "Best Boy",
+      "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1380316": {
+      "title": "Is God Is",
+      "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1364297": {
+      "title": "Bunnylovr",
+      "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1400761": {
+      "title": "Didn't Die",
+      "first_seen": "2026-08-24T07:47:50Z"
     }
   },
   "history": [
@@ -1780,6 +1808,11 @@
     {
       "date": "2026-08-17T07:41:41Z",
       "new_count": 35,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-08-24T07:47:50Z",
+      "new_count": 7,
       "total_catalog": 320
     }
   ]
