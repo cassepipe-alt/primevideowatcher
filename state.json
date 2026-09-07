@@ -1767,6 +1767,150 @@
     "movie:1400761": {
       "title": "Didn't Die",
       "first_seen": "2026-08-24T07:47:50Z"
+    },
+    "movie:1386315": {
+      "title": "The Runner",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1471168": {
+      "title": "Barreda",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1516698": {
+      "title": "The Last Sunrise",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1676318": {
+      "title": "Back to the 90s",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1750516": {
+      "title": "Pallaburusu",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1437143": {
+      "title": "KJQ",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1752138": {
+      "title": "Where is Mr Right",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1488110": {
+      "title": "The Theft of the Caravaggio",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1517409": {
+      "title": "Hollywood Hells",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1285959": {
+      "title": "The Passenger",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1669984": {
+      "title": "Accidental Truth: Next - Beyond UFO Disclosure",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1086247": {
+      "title": "Moss & Freud",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1749501": {
+      "title": "Romance in Christmas Town",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1314829": {
+      "title": "Monkey’s Magic Merry Go Round",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1665061": {
+      "title": "Patton Oswalt: Tea & Scotch",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1510335": {
+      "title": "A Balcony in Limoges",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1364137": {
+      "title": "Dirty Hands",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1280300": {
+      "title": "The Whistler",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1557915": {
+      "title": "Special Op: Rent-a-Cop",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1189885": {
+      "title": "The Morrigan",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1422120": {
+      "title": "Mermaid",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1643294": {
+      "title": "Refuge",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:329471": {
+      "title": "The Grand Tour",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:316970": {
+      "title": "Jagamae Sangeetham",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:331946": {
+      "title": "A Beautiful Obsession",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:333396": {
+      "title": "World's Most Evil Women",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:322571": {
+      "title": "The Criminal",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:320799": {
+      "title": "D&D: Dungeon Masters",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:312697": {
+      "title": "Jury Duty Presents: Company Retreat",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:283228": {
+      "title": "American Classic",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:235685": {
+      "title": "The Pendragon Cycle: Rise of the Merlin",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:245640": {
+      "title": "Hal & Harper",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:271938": {
+      "title": "Riot Women",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:296062": {
+      "title": "Shiba no Okite: Warera Inu Baka Henshu Bu",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:297018": {
+      "title": "Someday in Zero Gravity",
+      "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "tv:253941": {
+      "title": "The Paper",
+      "first_seen": "2026-09-07T13:05:29Z"
     }
   },
   "history": [
@@ -1813,6 +1957,11 @@
     {
       "date": "2026-08-24T07:47:50Z",
       "new_count": 7,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-09-07T13:05:29Z",
+      "new_count": 36,
       "total_catalog": 320
     }
   ]
