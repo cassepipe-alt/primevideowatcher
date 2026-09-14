@@ -1911,6 +1911,126 @@
     "tv:253941": {
       "title": "The Paper",
       "first_seen": "2026-09-07T13:05:29Z"
+    },
+    "movie:1440098": {
+      "title": "Drawn Together",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1742483": {
+      "title": "Biff the Human Slayer",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1747096": {
+      "title": "Pickleballers",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1725099": {
+      "title": "Plan Bea",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1506833": {
+      "title": "Magudam",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1739317": {
+      "title": "Echoes of Tomorrow",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1721352": {
+      "title": "Shattered Silence: Imitation of a Perfect Life",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1713738": {
+      "title": "Francisco Ramos: Still Learning",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1599947": {
+      "title": "9/11: Reclaiming Ground Zero",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1701665": {
+      "title": "The Marine Spirit: A Tale Of The Mami Wata",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1478117": {
+      "title": "Pickleball Pete",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1366544": {
+      "title": "Melaleuca",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1674994": {
+      "title": "From the Beyond: High Strangeness in the Bennington Triangle",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1393728": {
+      "title": "The Cholesterol Code",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1658896": {
+      "title": "Breach",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1646301": {
+      "title": "The Kinderhook Creature: In the Shadow of Sasquatch",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1647632": {
+      "title": "The Power of Pickleball",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1637137": {
+      "title": "One More Game",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1654683": {
+      "title": "Sharlotte's Web",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1690435": {
+      "title": "Eden's Choice",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1659670": {
+      "title": "One of the Good Ones",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1637569": {
+      "title": "Kat Crime: Tales of the Occult",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:314939": {
+      "title": "A Love Other Than Yours",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:323980": {
+      "title": "Operation Deception",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:319722": {
+      "title": "Honor Thy Mother",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:260249": {
+      "title": "The Trial",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:249863": {
+      "title": "The Revolutionaries",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:331586": {
+      "title": "LOL Next",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:329693": {
+      "title": "Sono qui per Caos",
+      "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "tv:321950": {
+      "title": "Would You Rather: Decide to Survive",
+      "first_seen": "2026-09-14T13:26:19Z"
     }
   },
   "history": [
@@ -1962,6 +2082,11 @@
     {
       "date": "2026-09-07T13:05:29Z",
       "new_count": 36,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-09-14T13:26:19Z",
+      "new_count": 30,
       "total_catalog": 320
     }
   ]
