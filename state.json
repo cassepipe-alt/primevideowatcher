@@ -2031,6 +2031,74 @@
     "tv:321950": {
       "title": "Would You Rather: Decide to Survive",
       "first_seen": "2026-09-14T13:26:19Z"
+    },
+    "movie:1641629": {
+      "title": "You+Me - Against the World",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1197698": {
+      "title": "Cursed Waters",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1770849": {
+      "title": "Norton Creek Massacre",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1695276": {
+      "title": "Shark Thrash",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1760239": {
+      "title": "Peter and the Goblin Arrow",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1590380": {
+      "title": "Ram and Leela",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1473505": {
+      "title": "Kill Trip",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1653894": {
+      "title": "Başıbozuklar",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1654947": {
+      "title": "Flux",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:330302": {
+      "title": "Cathedrals",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:273207": {
+      "title": "Neagley",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:252105": {
+      "title": "Golden Axe",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:321583": {
+      "title": "Escape to Florida",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:308136": {
+      "title": "Hope Valley: 1874",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:313294": {
+      "title": "Code 13",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:312872": {
+      "title": "7 vs. Wild: Castaway",
+      "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "tv:319100": {
+      "title": "Queen Modjadji",
+      "first_seen": "2026-09-21T13:26:02Z"
     }
   },
   "history": [
@@ -2087,6 +2155,11 @@
     {
       "date": "2026-09-14T13:26:19Z",
       "new_count": 30,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-09-21T13:26:02Z",
+      "new_count": 17,
       "total_catalog": 320
     }
   ]
