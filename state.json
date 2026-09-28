@@ -2099,6 +2099,126 @@
     "tv:319100": {
       "title": "Queen Modjadji",
       "first_seen": "2026-09-21T13:26:02Z"
+    },
+    "movie:1529372": {
+      "title": "Don't Be Shy!",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1032863": {
+      "title": "The Love Hypothesis",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1718834": {
+      "title": "26F Seeking Friend",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1560208": {
+      "title": "Ramba Oorvasi Menaka",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1776957": {
+      "title": "Mysterious Origins: The World's First Humans",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1395035": {
+      "title": "Lola Dust",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1467548": {
+      "title": "Desert Fiends 2",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1753554": {
+      "title": "The Random Guest",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1747451": {
+      "title": "The Hidden Order",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1080959": {
+      "title": "Alien Storm",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1744393": {
+      "title": "Cruel Love",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1749045": {
+      "title": "Jinx",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1434102": {
+      "title": "Heartin",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1326891": {
+      "title": "Ananthan Kaadu",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1762627": {
+      "title": "Heart of a Woman",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1477431": {
+      "title": "Time of Death",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1732605": {
+      "title": "Sannidhanam P.O.",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1719894": {
+      "title": "Unconnected",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1696914": {
+      "title": "Ophira Eisenberg: I Used To Be Nicer",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1712703": {
+      "title": "ICON(S): Maison Francis Kurkdjian, The alchemy of senses",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1760291": {
+      "title": "Dan Tiernan: Full of Beans",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1676776": {
+      "title": "My Other Half",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1660400": {
+      "title": "This Is Birmingham",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:335784": {
+      "title": "Истребители",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:332810": {
+      "title": "Fatal First Dates",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:326801": {
+      "title": "Partick Thistle: One Team in Glasgow",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:317072": {
+      "title": "銭形平次",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:328535": {
+      "title": "Free Women",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:322650": {
+      "title": "Fatal Fraud",
+      "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "tv:334478": {
+      "title": "Kelsi Davies Reacts!",
+      "first_seen": "2026-09-28T14:38:49Z"
     }
   },
   "history": [
@@ -2160,6 +2280,11 @@
     {
       "date": "2026-09-21T13:26:02Z",
       "new_count": 17,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-09-28T14:38:49Z",
+      "new_count": 30,
       "total_catalog": 320
     }
   ]
