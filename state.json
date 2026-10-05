@@ -2219,6 +2219,98 @@
     "tv:334478": {
       "title": "Kelsi Davies Reacts!",
       "first_seen": "2026-09-28T14:38:49Z"
+    },
+    "movie:1776129": {
+      "title": "Gloria",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1269325": {
+      "title": "Drishyam: The Conclusion",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1588205": {
+      "title": "Without Looking Back",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1766609": {
+      "title": "Go Deep: The DeSean Jackson Story",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1782745": {
+      "title": "Порив",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1049064": {
+      "title": "Mahendragiri Vaaraahi",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1317872": {
+      "title": "Sardar 2",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1755665": {
+      "title": "Assassin Within",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1496532": {
+      "title": "Prank Night",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1698869": {
+      "title": "Alien Disclosure Day",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1536756": {
+      "title": "Blood & Rust",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1315994": {
+      "title": "Home Delivery",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:324326": {
+      "title": "The Seven Knights of the Marronnier Kingdom",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:335227": {
+      "title": "I Would Rather Die",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:336083": {
+      "title": "No Signal",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:318312": {
+      "title": "Tommy & Tuppence",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:335216": {
+      "title": "Caligula's Hidden Legacy",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:321768": {
+      "title": "Jupiter Jones",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:334820": {
+      "title": "True Crime and Wine with Sherrilyn Dale",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:296520": {
+      "title": "Cooper & Fry",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:305415": {
+      "title": "Bill Bailey’s Vietnam",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:272418": {
+      "title": "Robin Hood",
+      "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "tv:304460": {
+      "title": "El Conquistador: Supervivencia Extrema",
+      "first_seen": "2026-10-05T15:21:32Z"
     }
   },
   "history": [
@@ -2285,6 +2377,11 @@
     {
       "date": "2026-09-28T14:38:49Z",
       "new_count": 30,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-10-05T15:21:32Z",
+      "new_count": 23,
       "total_catalog": 320
     }
   ]
