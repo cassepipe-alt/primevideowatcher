@@ -2311,6 +2311,70 @@
     "tv:304460": {
       "title": "El Conquistador: Supervivencia Extrema",
       "first_seen": "2026-10-05T15:21:32Z"
+    },
+    "movie:1653720": {
+      "title": "The Spirit Lock",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1537638": {
+      "title": "Learning to Fly",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1444466": {
+      "title": "Awarapan 2",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1718405": {
+      "title": "Drags to Riches",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1285951": {
+      "title": "Chapter 51",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1713962": {
+      "title": "Night of Blood",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1360708": {
+      "title": "Let's Love",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1701539": {
+      "title": "Executioner",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1662599": {
+      "title": "The Mummy",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:313630": {
+      "title": "Eternally Yours",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:303630": {
+      "title": "Cupertino",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:288673": {
+      "title": "Carrie",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:337188": {
+      "title": "Sam and Colby: Paranormal Investigators",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:335783": {
+      "title": "Истребители",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:335912": {
+      "title": "The UnBelievable:  Encounters with Dan Aykroyd",
+      "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "tv:316830": {
+      "title": "Seeking Persephone",
+      "first_seen": "2026-10-12T16:13:23Z"
     }
   },
   "history": [
@@ -2382,6 +2446,11 @@
     {
       "date": "2026-10-05T15:21:32Z",
       "new_count": 23,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-10-12T16:13:23Z",
+      "new_count": 16,
       "total_catalog": 320
     }
   ]
