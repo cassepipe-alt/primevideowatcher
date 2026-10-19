@@ -2375,6 +2375,62 @@
     "tv:316830": {
       "title": "Seeking Persephone",
       "first_seen": "2026-10-12T16:13:23Z"
+    },
+    "movie:1561726": {
+      "title": "Masterplan",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1381078": {
+      "title": "Love of Your Life",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1743098": {
+      "title": "Evel",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1548556": {
+      "title": "I Was a Teenage Sex Pistol",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1430698": {
+      "title": "The Bay",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1718985": {
+      "title": "The Reality Experiment",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1501342": {
+      "title": "49 Miles More",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1463188": {
+      "title": "Boy George & Culture Club",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1797319": {
+      "title": "Single Before Christmas",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1786036": {
+      "title": "Leslie Liao - Silky Smooth",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "tv:336973": {
+      "title": "Hometown Giants",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "tv:298550": {
+      "title": "Friends Sex and Games",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "tv:337513": {
+      "title": "Welcome Home Los Angeles",
+      "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "tv:275566": {
+      "title": "Wild Rose",
+      "first_seen": "2026-10-19T14:07:26Z"
     }
   },
   "history": [
@@ -2451,6 +2507,11 @@
     {
       "date": "2026-10-12T16:13:23Z",
       "new_count": 16,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-10-19T14:07:26Z",
+      "new_count": 14,
       "total_catalog": 320
     }
   ]
