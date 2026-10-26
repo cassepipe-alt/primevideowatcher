@@ -2431,6 +2431,106 @@
     "tv:275566": {
       "title": "Wild Rose",
       "first_seen": "2026-10-19T14:07:26Z"
+    },
+    "movie:1768182": {
+      "title": "Dot to Dot: Will I Be Single Forever?",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1803635": {
+      "title": "Matty Ryan: Live in Chicago",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1683210": {
+      "title": "Nurse: Empathy Heals",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1722652": {
+      "title": "Gavin Matts: present",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1654571": {
+      "title": "Crown or Class",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1437195": {
+      "title": "Livestream from Hell",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1743237": {
+      "title": "Sweet Candy Peach",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1111295": {
+      "title": "Crude Awakenings",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1799828": {
+      "title": "Eye for Eye",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1748419": {
+      "title": "A Mother's Secret",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1803637": {
+      "title": "Lizzie Borden: The Case Reopened",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1314832": {
+      "title": "Thingy",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1799795": {
+      "title": "Sex and the Friend Group",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1472951": {
+      "title": "Infiltrate",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1801127": {
+      "title": "Chris Porter: Middle Rage",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1712326": {
+      "title": "Land of Wolves",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1708427": {
+      "title": "My Father's War: Memories from Our Honored WWII Soldiers",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1701355": {
+      "title": "The Bowens: A Portrait of an American Family",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:316702": {
+      "title": "Final Table",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:338918": {
+      "title": "Chaar Yaar",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:303745": {
+      "title": "Love in Disguise",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:296466": {
+      "title": "Marília Mendonça: All the Feels",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:300925": {
+      "title": "Paul",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:339789": {
+      "title": "Lizzie Borden: 40 Whacks",
+      "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "tv:328939": {
+      "title": "Turning the Paige",
+      "first_seen": "2026-10-26T13:40:36Z"
     }
   },
   "history": [
@@ -2512,6 +2612,11 @@
     {
       "date": "2026-10-19T14:07:26Z",
       "new_count": 14,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-10-26T13:40:36Z",
+      "new_count": 25,
       "total_catalog": 320
     }
   ]
