@@ -2531,6 +2531,114 @@
     "tv:328939": {
       "title": "Turning the Paige",
       "first_seen": "2026-10-26T13:40:36Z"
+    },
+    "movie:1219507": {
+      "title": "In Transit",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1293266": {
+      "title": "Nightblade",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1783757": {
+      "title": "Mellem Bjerge",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1596275": {
+      "title": "Drive - The Pretenders",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1807926": {
+      "title": "LARA - The Man Who Took on Escobar",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1727734": {
+      "title": "Ali G: Who Iz I?",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1282159": {
+      "title": "Let's Have Kids!",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1507696": {
+      "title": "Apocalypse Z: New World",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1428295": {
+      "title": "Comrade Kalyan",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1807728": {
+      "title": "The Seventh Day",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1803761": {
+      "title": "Nick Guerra: Risk Taker",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1378537": {
+      "title": "Mirzapur: The Movie",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1748756": {
+      "title": "Gaskins: The Hitchhiker Killer",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1453532": {
+      "title": "Due West",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1811136": {
+      "title": "Supernatural Academy: Fate of the Dragon King",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1783937": {
+      "title": "Redline Fury",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1366242": {
+      "title": "DRAGN",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1811134": {
+      "title": "Supernatural Academy: Birth of the Dragon Marked",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1812600": {
+      "title": "Kwik Stop",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1812039": {
+      "title": "A Married Lie",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1382832": {
+      "title": "Hungry",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1088434": {
+      "title": "Hellfire",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "tv:339754": {
+      "title": "LOL: Last One Laughing Halloween UK",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "tv:303272": {
+      "title": "Magic Knight Rayearth",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "tv:332808": {
+      "title": "Archive X: Unexplained Phenomena",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "tv:339988": {
+      "title": "The Price of Milk",
+      "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "tv:309178": {
+      "title": "Days That Shocked the World",
+      "first_seen": "2026-11-02T16:39:08Z"
     }
   },
   "history": [
@@ -2617,6 +2725,11 @@
     {
       "date": "2026-10-26T13:40:36Z",
       "new_count": 25,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-11-02T16:39:08Z",
+      "new_count": 27,
       "total_catalog": 320
     }
   ]
