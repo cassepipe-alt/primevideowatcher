@@ -2639,6 +2639,78 @@
     "tv:309178": {
       "title": "Days That Shocked the World",
       "first_seen": "2026-11-02T16:39:08Z"
+    },
+    "movie:1815678": {
+      "title": "DON'T TRUST",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1801799": {
+      "title": "Homecoming",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1480158": {
+      "title": "Terrell & T.O.",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1814761": {
+      "title": "Last Stream",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1815857": {
+      "title": "Amazon Music Live: Doja Cat",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1595426": {
+      "title": "Jaunt",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1810813": {
+      "title": "Christmas at the Interlaken",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1748841": {
+      "title": "Dark Hollow",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1750965": {
+      "title": "Taming the Mouth",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1754991": {
+      "title": "The Draft: Enemy To Go",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1814251": {
+      "title": "Aurora Theater Shooting: Minute by Minute",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1719993": {
+      "title": "Play or Get Played",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "tv:328010": {
+      "title": "Devils' Crest",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "tv:303044": {
+      "title": "Campus Drivers",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "tv:258989": {
+      "title": "The Greatest",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "tv:334351": {
+      "title": "The Sixteenth Night Kitchen",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "tv:311005": {
+      "title": "Lost Media",
+      "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "tv:310851": {
+      "title": "Bear Grylls - Wild Reckoning",
+      "first_seen": "2026-11-09T16:56:07Z"
     }
   },
   "history": [
@@ -2730,6 +2802,11 @@
     {
       "date": "2026-11-02T16:39:08Z",
       "new_count": 27,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-11-09T16:56:07Z",
+      "new_count": 18,
       "total_catalog": 320
     }
   ]
