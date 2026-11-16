@@ -2711,6 +2711,70 @@
     "tv:310851": {
       "title": "Bear Grylls - Wild Reckoning",
       "first_seen": "2026-11-09T16:56:07Z"
+    },
+    "movie:1822838": {
+      "title": "El último rescate en la Patagonia",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1822260": {
+      "title": "Christmas to the Rescue",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1234139": {
+      "title": "Jailer 2",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1654566": {
+      "title": "Vibe",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1782831": {
+      "title": "Beyond Top Secret: The Era of Disclosure",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1128204": {
+      "title": "Feed",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1727780": {
+      "title": "Borderline",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1121649": {
+      "title": "Christmas on the North Pole Express",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1737302": {
+      "title": "Space Coast Confidential",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1766073": {
+      "title": "StrongHer",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "tv:332683": {
+      "title": "ROCK PAPER LANDMINE",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "tv:341780": {
+      "title": "Deadly Women 2.0",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "tv:314360": {
+      "title": "YAGA",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "tv:331540": {
+      "title": "Icons Unearthed: Arnold Schwarzenegger",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "tv:327910": {
+      "title": "Icons Unearthed: Quentin Tarantino",
+      "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "tv:325342": {
+      "title": "Icons Unearthed: Harrison Ford",
+      "first_seen": "2026-11-16T16:33:17Z"
     }
   },
   "history": [
@@ -2807,6 +2871,11 @@
     {
       "date": "2026-11-09T16:56:07Z",
       "new_count": 18,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-11-16T16:33:17Z",
+      "new_count": 16,
       "total_catalog": 320
     }
   ]
