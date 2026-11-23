@@ -2775,14 +2775,101 @@
     "tv:325342": {
       "title": "Icons Unearthed: Harrison Ford",
       "first_seen": "2026-11-16T16:33:17Z"
+    },
+    "movie:1568060": {
+      "title": "Perfect Liars",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1561834": {
+      "title": "Last Meal",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1131943": {
+      "title": "Madden",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1829316": {
+      "title": "Un dia inesperat",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1755301": {
+      "title": "The Valley",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1600653": {
+      "title": "The 12 Dates of Christmas",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1637705": {
+      "title": "#Cult",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1796007": {
+      "title": "Portrait of Many Faces",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1735270": {
+      "title": "Premada Oorali",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1803706": {
+      "title": "Becoming Zendaya",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1541119": {
+      "title": "Not My Dog",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1767395": {
+      "title": "Love Reins at Christmas",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1325614": {
+      "title": "Badland Rising",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1361969": {
+      "title": "All Night Wrong",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1746176": {
+      "title": "Dementium",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:1545484": {
+      "title": "Deathwoods",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "movie:785157": {
+      "title": "Capps Crossing: Wrong Side of Dead",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "tv:338549": {
+      "title": "Mascarade",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "tv:314131": {
+      "title": "MELANIA the Series",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "tv:341645": {
+      "title": "Love Transit 35+",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "tv:336148": {
+      "title": "Bros of Decay",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "tv:298103": {
+      "title": "My Stepmother and Stepsisters Aren't Wicked",
+      "first_seen": "2026-11-23T18:49:29Z"
+    },
+    "tv:328014": {
+      "title": "Aces: The ATP No.1 Club",
+      "first_seen": "2026-11-23T18:49:29Z"
     }
   },
   "history": [
-    {
-      "date": "2026-07-01T08:59:20Z",
-      "new_count": 0,
-      "total_catalog": 320
-    },
     {
       "date": "2026-07-06T17:29:11Z",
       "new_count": 14,
@@ -2876,6 +2963,11 @@
     {
       "date": "2026-11-16T16:33:17Z",
       "new_count": 16,
+      "total_catalog": 320
+    },
+    {
+      "date": "2026-11-23T18:49:29Z",
+      "new_count": 23,
       "total_catalog": 320
     }
   ]
